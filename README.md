@@ -5,4 +5,4 @@ webhook自分で入力してね
 
 プロキシがあったら自分のものに変えたほうが絶対いい
 
-https://discord.gg/tokky
+(no support) https://discord.gg/tokky
